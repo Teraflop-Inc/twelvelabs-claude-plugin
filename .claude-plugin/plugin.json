@@ -1,0 +1,9 @@
+{
+    "name": "twelvelabs",
+    "description": "TwelveLabs video AI integration. Index, search, and analyze videos using TwelveLabs' multimodal AI platform. Use slash commands like /twelvelabs:index to index local videos or URLs, /twelvelabs:search to search video content with natural language, and /twelvelabs:analyze to generate summaries, chapters, highlights, and more. Perfect for developers building video-based applications with semantic search, content analysis, and video understanding capabilities.",
+    "version": "1.0.0",
+    "author": {
+        "name": "TwelveLabs"
+    },
+    "keywords": ["twelvelabs", "video", "video-ai", "video-search", "multimodal", "embeddings"]
+}
