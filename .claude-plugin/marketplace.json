@@ -1,0 +1,23 @@
+{
+  "name": "twelvelabs-plugins",
+  "owner": {
+    "name": "TwelveLabs",
+    "email": "support@twelvelabs.io"
+  },
+  "plugins": [
+    {
+      "name": "twelvelabs",
+      "source": "./",
+      "description": "TwelveLabs video AI integration. Index, search, and analyze videos using TwelveLabs' multimodal AI platform.",
+      "version": "1.0.0",
+      "author": {
+        "name": "TwelveLabs"
+      },
+      "homepage": "https://www.twelvelabs.io/",
+      "repository": "https://github.com/Teraflop-Inc/twelvelabs-claude-plugin",
+      "license": "MIT",
+      "keywords": ["video", "ai", "search", "analysis", "multimodal", "twelvelabs"],
+      "category": "ai"
+    }
+  ]
+}

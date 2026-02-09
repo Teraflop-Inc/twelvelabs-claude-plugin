@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.sh
+.venv/
+
+# Workspace/output
+workspace/
+
+# Local/development files
+.last-branch
+*.mp4
+env.sh
+.DS_Store
+
+# Runtime state
+.twelvelabs/config.json
+
